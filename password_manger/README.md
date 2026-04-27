@@ -1,5 +1,11 @@
 # 🔐 Password Manager
 
+## Author
+
+Yasir Shaikh
+GitHub: https://github.com/YasirShaikh03
+
+
 A secure, encrypted desktop password manager built with **CustomTkinter**.  
 All passwords are encrypted with **AES (Fernet)** derived from your master password — nobody can read your vault without it.
 
@@ -68,3 +74,8 @@ password_manager/
 - `AuthWindow` — login/setup window
 - `PasswordManagerApp` — main app window
 - `EntryCard` — reusable card widget per entry
+
+- ## Author
+
+Yasir Shaikh
+GitHub: https://github.com/YasirShaikh03
